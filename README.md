@@ -20,6 +20,7 @@
 
 ## 💞️ I'm looking to collaborate on:
 
+- My [factor-calculator](https://github.com/phentnil/factor-calculator) project
 - JavaScript projects (Node.js, TypeScript, React, and others)
 - Python projects
 - Node.js module development (not much experience learned there yet, but I'm a quick study!)
