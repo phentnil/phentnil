@@ -31,3 +31,7 @@
 - Here on [GitHub](https://github.com/phentnil)!
 - [Stack Overflow](https://stackoverflow.com/users/7503887/phentnil)
 - *more to come...*
+
+## GitHub Stats
+
+[![phentnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=phentnil)](https://github.com/anuraghazra/github-readme-stats)
